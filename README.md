@@ -32,6 +32,8 @@ Entre em contato! 👇👇 </br>
     <a href="https://api.whatsapp.com/send?phone=5592992806495" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0aad47?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
 
+---
+
 # English Version 
 
 ## Tetris Game
